@@ -1,0 +1,6 @@
+{
+  "name": "Eco-Tormenta 2D: Guardianes de la Atmósfera",
+  "description": "Videojuego educativo ambiental 2D: pilota un dron ecológico, recolecta energía solar y eólica, reforesta con semillas y sopla al micrófono para activar la superturbina eólica con datos de clima Open-Meteo en vivo.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
